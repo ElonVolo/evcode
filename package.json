@@ -1,0 +1,10 @@
+{
+  "name": "evcode",
+  "version": "1.0.0",
+  "description": "A Decent-Pair-of-Pants Typescript project generator.",
+  "main": "index.ts",
+  "repository": "git+https://github.com/ElonVolo/evcode.git",
+  "author": "Elon Volo <elonvolo@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
